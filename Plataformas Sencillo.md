@@ -1,12 +1,12 @@
 
 - [[#Objetivos]]
-- Concepto
-- Estructura
-- Tamaño / Scope
-- Mecánicas
-- Menús
-- Gráficos
-- Audio
+- [[#Concepto]]
+- [[#Estructura]] 
+- [[#Tamaño / Scope]]
+- [[#Mecánicas]] 
+- [[#Menús]] 
+- [[#Gráficos]] 
+- [[#Audio]] 
 
 # Objetivos
 
@@ -23,4 +23,4 @@ No busca ser un plataformas innovador, ni si quiera divertido; tan solo servir c
 
 # Estructura
 
-El juego tendrá una estructura lineal, con poca
+El juego tendrá una estructura lineal, con pocos elementos interactivos. Actuará como una mera prueba de diseño y toma de contacto con los diferentes elementos básicos de Godot Engine. 
