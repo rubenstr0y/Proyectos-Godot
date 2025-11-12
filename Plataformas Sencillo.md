@@ -1,13 +1,12 @@
 
-[[#Objetivos]]
-
-Concepto
-Estructura
-Tamaño / Scope
-Mecánicas
-Menús
-Gráficos
-Audio
+- [[#Objetivos]]
+- Concepto
+- Estructura
+- Tamaño / Scope
+- Mecánicas
+- Menús
+- Gráficos
+- Audio
 
 # Objetivos
 
