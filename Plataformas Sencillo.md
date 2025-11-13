@@ -33,15 +33,21 @@ Aquí se describe el Loop jugable desde la pantalla de inicio hasta la finalizac
 
 Apenas unos minutos de gameplay, con los siguientes elementos:
 
-- 2 enemigos y 1 boss
+- 2 enemigos y 1 boss con dos ataques
 - 1 objeto interactuable
 - Varias tiles 
 - Barra de vida
 - Temporizador
 - 1 elemento dañino (pinchos o similares)
-- 
 
 # Mecánicas
+
+## Movimiento
+
+- Salto: Mecánica estándar.
+- Salto Cargado: Se podrá cargar el salto y saltar mucho más alto.
+- Movimiento: Mecánica estándar.
+- 
 
 # Menús
 
