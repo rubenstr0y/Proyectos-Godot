@@ -6,6 +6,6 @@
 - [[#Sistema de combate por cartas (Magic, Hearthstone)]]
 - [[#Ciudadelas]] 
 - Flappy Bird
-- 
+- [[Buscaminas]] 
 
 
