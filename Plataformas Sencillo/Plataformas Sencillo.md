@@ -54,9 +54,14 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 
 ## Ataque  
 
-- Espada: El jugador podrá hacer un ataque con una espada.
-- Pistola: El jugador podrá hacer una ataque con una pistola al cogerla. 
+- Espada: El jugador podrá hacer un ataque con una espada. Esta hará un área delante suya en la cuál los enemigos recibirán daño. 
+- Pistola: El jugador podrá hacer una ataque con una pistola al cogerla. Esta disparará un proyectil y tendrá un pequeño cooldown. 
 
+## Vida
+
+- Daño: Al entrar en contacto con un elemento que haga daño, el jugador recibirá daño.
+- Curación: Al recoger objetos que curen vida, el jugador se curará.
+- Muerte: Si el jugador tiene una cantidad de vida <= 0; morirá. 
 # Menús
 
 - Menú Principal
@@ -70,7 +75,9 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 - Cámara: Lateral
 - Estilo: Pixel Art 2D sencillo, sin muchos retoques ni detalles
 - Referencias: Super Mario World, TLOZ Original
-- 
+- Ambientación: Sencilla y clásica
 
 # Audio
 
+- Recogida de Objetos de curación
+- Recibir daño
