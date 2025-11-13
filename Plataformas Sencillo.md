@@ -17,7 +17,7 @@
 
 # Concepto
 
-El concepto consistirá en un sencillo juego de plataformas utilizando el arte realizado en el proyecto de la asignatura Expresión Artística, basados en el videojuego The Legend of Zelda: Breath of the Wild.
+El concepto consistirá en un sencillo juego de plataformas utilizando arte pixel art encontrado gratuitamente online.
 
 No busca ser un plataformas innovador, ni si quiera divertido; tan solo servir como práctica para el familiarizarse con Godot Engine.
 
@@ -25,11 +25,21 @@ No busca ser un plataformas innovador, ni si quiera divertido; tan solo servir c
 
 El juego tendrá una estructura lineal, con pocos elementos interactivos. Actuará como una mera prueba de diseño y toma de contacto con los diferentes elementos básicos de Godot Engine. 
 
+El juego tendrá un nivel básico y un "boss" final.
+
 Aquí se describe el Loop jugable desde la pantalla de inicio hasta la finalización del juego:
 
 # Tamaño / Scope
 
-Apenas unos minutos d
+Apenas unos minutos de gameplay, con los siguientes elementos:
+
+- 2 enemigos y 1 boss
+- 1 objeto interactuable
+- Varias tiles 
+- Barra de vida
+- Temporizador
+- 1 elemento dañino (pinchos o similares)
+- 
 
 # Mecánicas
 
