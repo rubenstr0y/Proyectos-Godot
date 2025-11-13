@@ -51,9 +51,16 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 - Salto: Mecánica estándar.
 - Salto Cargado: Se podrá cargar el salto y saltar mucho más alto.
 - Movimiento: Mecánica estándar.
-- 
+
+## Ataque  
+
+- Espada: El jugador podrá hacer un ataque con una espada.
+- Pistola: El jugador podrá hacer una ataque con una pistola al cogerla. 
 
 # Menús
+
+- Menú 
+
 
 # Gráficos
 
