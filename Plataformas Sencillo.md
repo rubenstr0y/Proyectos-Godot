@@ -29,6 +29,8 @@ Aquí se describe el Loop jugable desde la pantalla de inicio hasta la finalizac
 
 # Tamaño / Scope
 
+Apenas unos minutos d
+
 # Mecánicas
 
 # Menús
