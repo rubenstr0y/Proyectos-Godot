@@ -65,9 +65,12 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 - Menú Game Over
 - Menú de ganar la partida
 - Créditos
-
-
 # Gráficos
+
+- Cámara: Lateral
+- Estilo: Pixel Art 2D sencillo, sin muchos retoques ni detalles
+- Referencias: Super Mario World, TLOZ Original
+- 
 
 # Audio
 
