@@ -81,3 +81,7 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 
 - Recogida de Objetos de curación
 - Recibir daño
+- Efectos de las armas
+- Salto
+- Música de fondo
+- Interactuar con los menús
