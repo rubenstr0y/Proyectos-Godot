@@ -59,7 +59,12 @@ Apenas unos minutos de gameplay, con los siguientes elementos:
 
 # Menús
 
-- Menú 
+- Menú Principal
+- Menú de Pausa
+- Menú de controles
+- Menú Game Over
+- Menú de ganar la partida
+- Créditos
 
 
 # Gráficos
