@@ -29,6 +29,9 @@ El juego tendrá un nivel básico y un "boss" final.
 
 Aquí se describe el Loop jugable desde la pantalla de inicio hasta la finalización del juego:
 
+[[Drawing 2025-11-13 09.57.09.excalidraw]]
+
+
 # Tamaño / Scope
 
 Apenas unos minutos de gameplay, con los siguientes elementos:
